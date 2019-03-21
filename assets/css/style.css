@@ -1,0 +1,15 @@
+body {
+    background-color: rgb(150, 19, 216);
+}
+.container {
+    background-color: rgb(14, 116, 211);
+    margin-top: 30px;
+    font-family: monospace;
+    
+}
+h1, h2, h3 {
+padding: 40px;
+}
+#header {
+    font-size:70px;   
+}
