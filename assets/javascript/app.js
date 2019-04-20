@@ -6,8 +6,6 @@ var questions = [
         correctAnswer: "Curiosity",
         image: "./assets/images/giphy.gif",
         image2: "./assets/images/giphy(1).gif"
-
-
     },
     {
         question: "What does psithurism describe the sound of?",
@@ -200,5 +198,3 @@ $(document).on("click", "#start", function () {
     loadQuestion();
 
 });
-
-
