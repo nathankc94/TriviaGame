@@ -4,8 +4,8 @@ var questions = [
         question: "A person who’s a fysigunkus lacks what?",
         options: ["Humor", "Wisdom", "Curiosity", "Temper"],
         correctAnswer: "Curiosity",
-        image: "/assets/images/giphy.gif",
-        image2: "/assets/images/giphy(1).gif"
+        image: "./assets/images/giphy.gif",
+        image2: "./assets/images/giphy(1).gif"
 
 
     },
@@ -13,50 +13,50 @@ var questions = [
         question: "What does psithurism describe the sound of?",
         options: ["Flowing water", "Rustling leaves", "Keyboard typing", "Hammer nailing"],
         correctAnswer: "Rustling leaves",
-        image: "/assets/images/giphy.gif",
-        image2: "/assets/images/giphy(1).gif"
+        image: "./assets/images/giphy.gif",
+        image2: "./assets/images/giphy(1).gif"
     },
     {
         question: "What is a wheeple?",
         options: ["A poor attempt at whistling", "A poor attempt at listening", "A poor attempt at sneezing", "A poor attempt at hugging"],
         correctAnswer: "A poor attempt at whistling",
-        image: "/assets/images/giphy.gif",
-        image2: "/assets/images/giphy(1).gif"
+        image: "./assets/images/giphy.gif",
+        image2: "./assets/images/giphy(1).gif"
     },
     {
         question: "What’s limerance the initial thrill of?",
         options: ["Getting a job", "Falling in love", "Learning to write", "Buying a house"],
         correctAnswer: "Falling in love",
-        image: "/assets/images/giphy.gif",
-        image2: "/assets/images/giphy(1).gif"
+        image: "./assets/images/giphy.gif",
+        image2: "./assets/images/giphy(1).gif"
     },
     {
         question: "What’s another word for chirotonsor?",
         options: ["A masseur", "A carpenter", "A barber", "A dentist"],
         correctAnswer: "A barber",
-        image: "/assets/images/giphy.gif",
-        image2: "/assets/images/giphy(1).gif"
+        image: "./assets/images/giphy.gif",
+        image2: "./assets/images/giphy(1).gif"
     },
     {
         question: "What do you love eating as a pagophagiac",
         options: ["Fingernails", "Ash", "Pips", "Ice"],
         correctAnswer: "Ice",
-        image: "/assets/images/giphy.gif",
-        image2: "/assets/images/giphy(1).gif"
+        image: "./assets/images/giphy.gif",
+        image2: "./assets/images/giphy(1).gif"
     },
     {
         question: "When you’re a stagiary, what are you a student of?",
         options: ["Medicine", "Law", "Geology", "Philosophy"],
         correctAnswer: "Law",
-        image: "/assets/images/giphy.gif",
-        image2: "/assets/images/giphy(1).gif"
+        image: "./assets/images/giphy.gif",
+        image2: "./assets/images/giphy(1).gif"
     },
     {
         question: "Presbycusis is the loss of what at old age?",
         options: ["Smelling", "Hearing", "Tasting", "Feeling"],
         correctAnswer: "Hearing",
-        image: "/assets/images/giphy.gif",
-        image2: "/assets/images/giphy(1).gif"
+        image: "./assets/images/giphy.gif",
+        image2: "./assets/images/giphy(1).gif"
     }
 ];
 

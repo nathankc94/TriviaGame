@@ -1,10 +1,6 @@
-html,
-body {
-  height: 100%;
-  color: whitesmoke;
-}
 
 body {
+  height: 100%;
   text-align: center;
   background-image: url("/assets/images/astro-astronomy-background-956999.jpg");
   color: whitesmoke;
