@@ -1,9 +1,8 @@
 
 body {
-  background-image: url("/assets/images/RerE_vueaerienne_trainE_tournan.JPG");
+  background-color: black;
   height: 100%;
   text-align: center;
-  
 }
 
 #sub-wrapper {
