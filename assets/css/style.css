@@ -1,6 +1,6 @@
 
 body {
-  background: url("/astro-astronomy-background-956999.jpg");
+  background-image: url(/assets/images/astro-astronomy-background-956999.jpg);
   height: 100%;
   text-align: center;
   
